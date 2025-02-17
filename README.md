@@ -1,3 +1,3 @@
 # Stock-Price-Model
 Still Working on it...
-Code in Python repo
+Code in Python repository
