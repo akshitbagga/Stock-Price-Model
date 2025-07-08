@@ -13,6 +13,7 @@ data = yf.download(tickers='UBER', period='1d', interval='1m')
 #declare figure
 fig = go.Figure()
 
+
 #Candlestick
 fig.add_trace(go.Candlestick(x=data.index,
                 open=data['Open'],
